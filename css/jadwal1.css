@@ -110,6 +110,7 @@ body {
   box-sizing: border-box;
   max-width: 388px;
   line-height: 25px;
+  font-size: 16px;
 }
 
 .input {
